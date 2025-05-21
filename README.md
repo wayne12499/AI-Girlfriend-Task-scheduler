@@ -7,11 +7,13 @@ It’s like having a sweet, supportive partner who texts you back *and* reminds 
 
 ---
 
-## ⚠️ Warning: This Project Is a Work In Progress
+##  Warning: This Project Is a Work In Progress
 
 This app is currently in **active development**. Features, memory handling, and the conversational model are being refined.
+You will need to create a virtual environment in your SKD tool.
+You will need to use your own gemini api key(can use any api as per required) for the conversation to work.
 
-> 💡 Expect:
+> Expect:
 - Occasional bugs
 - Frequent updates
 - API-related instability (especially with Gemini)
@@ -21,18 +23,18 @@ If you're a contributor or tester, please share feedback via Issues or Pull Requ
 
 ---
 
-## ✨ Features
+## Features
 
-- 🧠 **Conversational AI** with emotional tone
-- 💕 **Custom personality** via prompt.txt
-- 📝 **Natural language task detection**
-- 💾 **Memory persistence** (remembers your chats)
-- ⚙️ **Gemini Flash 2.0 integration**
-- 💻 **Packaged into a `.exe` desktop app**
+-  **Conversational AI** with emotional tone
+- **Custom personality** via prompt.txt
+- **Natural language task detection**
+- **Memory persistence** (remembers your chats)
+- **Gemini Flash 2.0 integration**
+- **Packaged into a `.exe` desktop app**
 
 ## 🔧 How It Works
 
-Aiyana runs in your terminal or as a packaged `.exe` and:
+Yelena runs in your terminal for now.
 
 1. Loads a custom persona that speaks lovingly and remembers you.
 2. Lets you chat like normal (`"I have a meeting at 3pm"`).
@@ -41,7 +43,8 @@ Aiyana runs in your terminal or as a packaged `.exe` and:
 
 ---
 
-## 🧱 Tech Stack
+
+## Tech Stack
 
 | Component        | Tool/Lib                         |
 |------------------|----------------------------------|
